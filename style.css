@@ -1,0 +1,154 @@
+body {
+  font-family: "Inter", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+h1 {
+  font-size: 50px;
+}
+p {
+  font-size: medium;
+}
+.banner-part {
+  display: flex;
+  background-color: aquamarine;
+  margin-bottom: 20px;
+}
+.banner-left-site {
+  padding: 5%;
+}
+.banner-right-site {
+  padding: 5%;
+}
+.btn {
+  background: #123ef0;
+  border-radius: 5px;
+  color: aliceblue;
+}
+/* Our Featured  section */
+.our-feature-flower {
+  padding: 5%;
+}
+.middle {
+  text-align: center;
+}
+.flowers {
+  display: flex;
+  margin-left: 10%;
+  text-align: center;
+  padding: 3px;
+}
+.img-1 {
+  background-color: black;
+  width: 100%;
+  padding: 3px;
+}
+.img-2 {
+  background-color: brown;
+  width: 100%;
+  padding: 5px;
+}
+.img-3 {
+  background-color: yellow;
+  width: 100%;
+  padding: 5px;
+}
+.flowers img {
+  height: 80%;
+  width: 95%;
+  border-radius: 160px 160px 0px 0px;
+}
+
+.deleverd-section {
+  display: flex;
+  text-align: center;
+  background-color: antiquewhite;
+  margin-left: 15%;
+  margin-right: 5%;
+  margin-bottom: 30px;
+  padding: 40px;
+}
+.deleverd-section div {
+  width: 100%;
+}
+
+.hot-deal-section {
+  display: flex;
+  width: 100%;
+  background-color: aquamarine;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.hot-deatils {
+  width: 100%;
+  padding: 3%;
+  margin-top: 4%;
+  text-align: center;
+}
+.img-details {
+  width: 100%;
+  padding: 3%;
+}
+.social-details {
+  text-align: center;
+  padding: 2%;
+}
+.social-part {
+  display: flex;
+  margin-left: 12%;
+  margin-right: 10%;
+  padding: 40px;
+  height: 30px;
+  width: 80%;
+}
+.social-part div {
+  width: 100%;
+  padding: 4px;
+}
+.social-part img {
+  width: 100%;
+  margin-bottom: 50px;
+}
+.Latest-Deals {
+  margin-top: 20%;
+  margin-bottom: 8%;
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 5%;
+  /* width: 100%; */
+  height: 400px;
+  background-image:url("/Flower-Asset/Rectangle\ 9.png");
+}
+.Latest-Deals-content {
+  padding-top: 10%;
+}
+.Latest-Deals input {
+  width: 35%;
+  height: 25px;
+}
+.Latest-Deals button {
+  height: 30px;
+}
+.CONTACT-US{
+      text-align: center;
+      margin-bottom: 80px;
+      background-color: aquamarine;
+      height: 250px;
+      padding: 4%;
+}
+
+.CONTACT-US button p{
+      color: antiquewhite;
+}
+
+footer {
+  text-align: center;
+  background-color: black;
+  padding: 6%;
+  color: white;
+}
+small {
+  color: whitesmoke;
+}
+span {
+  color: blueviolet;
+}
